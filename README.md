@@ -26,4 +26,5 @@ Summary View
 - Provide a comprehensive list of all patients with necessary information such as name, department, position, gender, age, education, and salary.
 - Users should be able to filter the list based on any of the available columns.
 
-***The required dashboard objectives and dataset was provided by St. Jude Children's Research Hospital and belongs to them. Entire data is edited to maintain privacy of patients. Any attempt to copy data is subject to lawsuit.***
+> [!CAUTION]
+> ***The required dashboard objectives and dataset was provided by St. Jude Children's Research Hospital and belongs to them. Entire data is edited to maintain privacy of patients. Any attempt to copy data is subject to lawsuit.***
