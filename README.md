@@ -28,3 +28,5 @@ Summary View
 
 > [!CAUTION]
 > ***The required dashboard objectives and dataset was provided by St. Jude Children's Research Hospital and belongs to them. Entire data is edited to maintain privacy of patients. Any attempt to copy data is subject to lawsuit.***
+
+## The dashboard is published and can be viewed at [here](https://public.tableau.com/views/PatientDashboard-Project/PatientSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
